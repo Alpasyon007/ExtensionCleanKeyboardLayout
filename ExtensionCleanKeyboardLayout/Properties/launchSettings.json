@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ExtensionCleanKeyboardLayout (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "ExtensionCleanKeyboardLayout (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
